@@ -9,7 +9,7 @@
 - ⭐ PhD Scholar at USC
 - 🔭 Worked on Full Stack Web Development
 - 🌱 I’m learning MEAN/MERN Stack Development
-- 💬 Ask me about Web, IoT and Epidemiology
+- 💬 Ask me about Web, IoT and Nanodevices
 - 🏆 IEEE Kolkata Section 2019 Best Student Volunteer
 - 📫 Reach me at - akash_roy@ieee.org
 - ⚡ Let's Build Something meaningful
