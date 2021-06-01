@@ -1,4 +1,4 @@
-[![Akash Roy Cover](https://github.com/aroy97/aroy97/blob/master/bg3.jpg)](https://www.AkashRoy.com)
+[![Akash Roy Cover](https://github.com/aroy97/aroy97/blob/master/IMG_2423.jpg)](https://www.AkashRoy.com)
 <p align="center">
 <a href="#contributing"><img alt="Contributions Appreciated" src="https://img.shields.io/badge/contributions-appreciated-leafgreen?style=for-the-badge&labelColor=black&logo=github"></a>  <a href="https://twitter.com/Lyaadkhor_bong"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Lyaadkhor_bong?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@Lyaadkhor_bong"></a>
 </p>
